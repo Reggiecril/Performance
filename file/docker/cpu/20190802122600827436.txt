@@ -1,0 +1,45 @@
+
+[ 2s ] thds: 1 eps: 18.97 lat (ms,95%): 55.82
+[ 4s ] thds: 1 eps: 19.00 lat (ms,95%): 52.89
+[ 6s ] thds: 1 eps: 19.51 lat (ms,95%): 53.85
+[ 8s ] thds: 1 eps: 19.77 lat (ms,95%): 51.94
+[ 10s ] thds: 1 eps: 19.22 lat (ms,95%): 53.85
+CPU speed:
+events per second:    19.34
+
+General statistics:
+total time:                          10.0280s
+total number of events:              194
+
+Latency (ms):
+min:                                   50.55
+avg:                                   51.68
+max:                                   68.99
+95th percentile:                       53.85
+sum:                                10025.56
+
+Threads fairness:
+events (avg/stddev):           194.0000/0.00
+execution time (avg/stddev):   10.0256/0.00
+{"memory_raw":"1.809MiB / 1.952GiB","memory_percent":"0.09%","cpu":"99.91%","net_I/O":"438B / 0B","block_I/O":"0B / 0B","pids":"3"}
+{"memory_raw":"2.723MiB / 1.952GiB","memory_percent":"0.14%","cpu":"99.79%","net_I/O":"688B / 0B","block_I/O":"0B / 0B","pids":"3"}
+{"memory_raw":"2.723MiB / 1.952GiB","memory_percent":"0.14%","cpu":"99.61%","net_I/O":"688B / 0B","block_I/O":"0B / 0B","pids":"3"}
+{"memory_raw":"2.719MiB / 1.952GiB","memory_percent":"0.14%","cpu":"99.96%","net_I/O":"758B / 0B","block_I/O":"0B / 0B","pids":"3"}
+{"memory_raw":"2.707MiB / 1.952GiB","memory_percent":"0.14%","cpu":"100.35%","net_I/O":"758B / 0B","block_I/O":"0B / 0B","pids":"3"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
