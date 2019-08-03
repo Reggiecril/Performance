@@ -9,8 +9,6 @@ class VMTemplate(Template):
     def run_sysbench_vir(self, sys_cmd, vir_stat):
         # run sysbench to test
         p1 = subprocess.Popen(sys_cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-        # run docker stats
-        p2 = subprocess.Popen(vir_stat, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
 
         # returncode of p1, if return is None means subprocess is running,if returncode is 0 means subprocess is finised
         returncode = p1.poll()
@@ -22,9 +20,11 @@ class VMTemplate(Template):
             returncode = p1.poll()
             print sysbench_line
             if sysbench_line == "Threads started!":
-                p2.stdout.readline()
-                p2.stdout.readline()
                 break
+        # run docker stats
+        p2 = subprocess.Popen(vir_stat, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        p2.stdout.readline()
+        p2.stdout.readline()
         while returncode is None:
             # get sysbench data
             sysbench_line = p1.stdout.readline().strip()

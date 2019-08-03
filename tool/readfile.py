@@ -9,7 +9,7 @@ class ReadFile:
     def sysbench_data(self, line):
         li = list()
         b = re.match(r"(.*)\[([^\[\]]*)\](.*)", line, re.I | re.M)
-        li.append(b.group(2).strip().replace('s',''))
+        li.append(b.group(2).strip().replace('s', ''))
         line_spilt = line.split(' ')
         for i in line_spilt:
             if self.isnumber(i):
@@ -26,10 +26,6 @@ class ReadFile:
                 count += 1
         return l
 
-    def docker_data(self, line):
-        dic = eval(line[line.index('{'):])
-        return dic
-
     def read_file(self):
         file = open(self.filename, "r")
         list_sysbench, list_virstat = list(), list()
@@ -38,16 +34,13 @@ class ReadFile:
             if line[0] == '[' and ']' in line:
                 line = line.strip()
                 list_sysbench.append(self.sysbench_data(line))
-            if self.type:
-                if line.replace(" ", "").strip().isdigit():
-                    list_virstat.append(self.vm_data(line.strip()))
-            else:
-                if '{' in line:
-                    dic = self.docker_data(line.strip())
-                    list_virstat.append(dic)
+
+            if line.replace(" ", "").strip().isdigit():
+                list_virstat.append(self.vm_data(line.strip()))
+
         return list_sysbench, list_virstat
 
-    def isnumber(self,aString):
+    def isnumber(self, aString):
         try:
             float(aString)
             return True

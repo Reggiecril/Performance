@@ -8,15 +8,17 @@ import os
 import re
 
 
-def isnumber(aString):
-    try:
-        float(aString)
-        return True
-    except:
-        return False
-line="[ 5s ] thds: 1 eps: 274.10 lat (ms,95%): 3.75"
-line_spilt=line.split(' ')
-print line_spilt
-for i in line_spilt:
-    if isnumber(i):
-        print i
+def vm_data(line):
+    l = line.split(" ")
+    count = 0
+    while count < len(l):
+        if l[count] == " " or l[count] == "":
+            l.pop(count)
+        else:
+            count += 1
+    return l
+
+
+string=" 1  0 101500  71836 119136 246512    0    0     0     0  280  173 100  0  0  0  0"
+print string.strip()
+print len(vm_data(string.strip()))
