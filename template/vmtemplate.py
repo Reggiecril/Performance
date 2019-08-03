@@ -1,28 +1,54 @@
-import os
-import datetime
 import subprocess
-
 from template import Template
 
 
 class VMTemplate(Template):
-    def __init__(self,DB_cmd, sys_cmd, vir_stat, clean_cmd):
-        super(VMTemplate, self).__init__(DB_cmd, sys_cmd, vir_stat, clean_cmd)
-    def run_sysbench_vir(self, sys_cmd,vir_stat):
+    def __init__(self,vm_type, test_type):
+        super(VMTemplate, self).__init__(vm_type, test_type)
+
+    def run_sysbench_vir(self, sys_cmd, vir_stat):
         # run sysbench to test
         p1 = subprocess.Popen(sys_cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        # run docker stats
+        p2 = subprocess.Popen(vir_stat, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+
         # returncode of p1, if return is None means subprocess is running,if returncode is 0 means subprocess is finised
         returncode = p1.poll()
-        sysbench = list()
-        self.run_vir(vir_stat)
+        sysbench_stat, docker_stat = list(), list()
         # during excuting, get information of p1
         while returncode is None:
-            line = p1.stdout.readline().strip()
-            sysbench.append(line)
+            # get sysbench data
+            sysbench_line = p1.stdout.readline().strip()
             returncode = p1.poll()
-            print line
-        self.sysbench = '\n'.join(sysbench)
-
-    def run_vir(self, vir_stat):
-        # run vmstat per 5s to get state of file
-        self.stat = subprocess.check_output(vir_stat.split(" "))
+            print sysbench_line
+            if sysbench_line == "Threads started!":
+                p2.stdout.readline()
+                p2.stdout.readline()
+                break
+        while returncode is None:
+            # get sysbench data
+            sysbench_line = p1.stdout.readline().strip()
+            sysbench_stat.append(sysbench_line)
+            print sysbench_line
+            # check
+            if sysbench_line.strip() == '':
+                p2.stdout.readline()
+                continue
+            # get docker data
+            if sysbench_line[0] == '[':
+                docker_line = p2.stdout.readline()
+                docker_stat.append(docker_line)
+                print docker_line
+            else:
+                p2.kill()
+                break
+            returncode = p1.poll()
+        while returncode is None:
+            # get sysbench data
+            sysbench_line = p1.stdout.readline().strip()
+            sysbench_stat.append(sysbench_line)
+            returncode = p1.poll()
+            print sysbench_line
+        # transfer list to string
+        self.sysbench = '\n'.join(sysbench_stat)
+        self.stat = '\n'.join(docker_stat)
