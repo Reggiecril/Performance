@@ -7,8 +7,8 @@ from tool.property import Property
 class Template(object):
     def __init__(self, vm_type, test_type):
         self.test_type = test_type
-        self.vm_type=vm_type
-        #get sysbench and virtual command
+        self.vm_type = vm_type
+        # get sysbench and virtual command
         p = Property(vm_type, test_type)
         self.sys_cmd = p.sys_cmd()
         self.vir_stat = p.vir_stat()
@@ -40,10 +40,11 @@ class Template(object):
         test = self.get_test(self.test_type)
         parameter = self.get_command(self.get_vm_option_list(self.config_raw.options("Parameter")), "Parameter")
         if self.vm_type:
-            cmd = default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepared'
+            cmd = default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepare'
         else:
-            cmd = default['docker_run'] + ' ' + default['docker_image'] + ' ' + default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepared'
-
+            cmd = default['docker_run'] + ' ' + default['docker_image'] + ' ' + default[
+                'sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepare'
+        print cmd
         os.system(cmd)
 
     def fileio_clean(self):
@@ -51,11 +52,10 @@ class Template(object):
         test = self.get_test(self.test_type)
         parameter = self.get_command(self.get_vm_option_list(self.config_raw.options("Parameter")), "Parameter")
         if self.vm_type:
-            cmd = default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepared'
+            cmd = default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' cleanup'
         else:
             cmd = default['docker_run'] + ' ' + default['docker_image'] + ' ' + default[
-                'sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepared'
-
+                'sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' cleanup'
         os.system(cmd)
 
     def run_sysbench_vir(self, sys_cmd, vir_stat):
@@ -65,6 +65,8 @@ class Template(object):
     def get_command(self, parameter, string):
         cmd = ''
         for i in parameter:
+            if i == 'file-test-mode':
+                continue
             cmd += '--' + i + '='
             cmd += self.config_raw.get(string, i) + ' '
         return cmd

@@ -32,17 +32,42 @@ class Module(object):
 
     def process(self, test_type):
         pass
-    def check_test_type(self,test_type):
-        if test_type!='cpu' and test_type!='memory' and test_type!='fileio' and test_type!='threads':
+
+    def check_test_type(self, test_type):
+        if test_type != 'cpu' and test_type != 'memory' and test_type != 'fileio' and test_type != 'threads':
             print "Please enter one of \'cpu\' , \'memory\' , \'fileio\' ,\'threads\'"
             os._exit(0)
-    def get_sys_data(self, list_sysbench):
+
+    def get_statistics_data(self, dict_statistics, test_type):
+        if test_type == 'cpu':
+            self.cpu_statistics = dict_statistics
+        elif test_type == 'memory':
+            self.memory_statistics = dict_statistics
+        elif test_type == 'fileio':
+            self.fileio_statistics = dict_statistics
+        elif test_type == 'threads':
+            self.threads_statistics = dict_statistics
+
+    def get_sys_data(self, list_sysbench, test_type):
         # get sysbench stat value
         for i in range(len(list_sysbench)):
             self.sys_time.append(float(list_sysbench[i][0].strip()))
-            self.cpu_thds.append(float(list_sysbench[i][1]))
-            self.cpu_eps.append(float(list_sysbench[i][2]))
-            self.cpu_lat.append(float(list_sysbench[i][3]))
+            if test_type == 'cpu':
+                self.cpu_thds.append(float(list_sysbench[i][1]))
+                self.cpu_eps.append(float(list_sysbench[i][2]))
+                self.cpu_lat.append(float(list_sysbench[i][3]))
+            elif test_type == 'memory':
+                self.memory_usage.append(float(list_sysbench[i][1]))
+            elif test_type == 'fileio':
+                self.fileio_reads.append(float(list_sysbench[i][1]))
+                self.fileio_writes.append(float(list_sysbench[i][2]))
+                self.fileio_fsyncs.append(float(list_sysbench[i][3]))
+                self.fileio_latency.append(float(list_sysbench[i][4]))
+            elif test_type == 'threads':
+                self.threads_thds.append(float(list_sysbench[i][1]))
+                self.threads_eps.append(float(list_sysbench[i][2]))
+                self.threads_lat.append(float(list_sysbench[i][3]))
+
     def get_vir_data(self, list_virstat):
         # get vir stat value
         for j in range(len(list_virstat)):

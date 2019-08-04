@@ -25,7 +25,7 @@ class Property:
             cmd = self.default['sys_name'] + ' ' + self.test + ' ' + self.parameter + ' run'
         else:
             cmd = self.default['docker_run'] + ' ' + self.default['docker_image'] + ' ' + self.default[
-                'sys_name'] + ' ' + self.test_type + ' ' + self.test + ' ' + self.parameter + ' run'
+                'sys_name']  +' '+ self.test + ' ' + self.parameter + ' run'
         return cmd
 
 
@@ -51,8 +51,5 @@ class Property:
         return option
 
     def get_test(self, test_type):
-        if test_type != 'cpu' and test_type != 'memory' and test_type != 'threads' and test_type != 'fileio':
-            print "Try cpu,memory,threads,memory..."
-            os._exit(0)
         cmd = self.get_command(self.get_vm_option_list(self.config_raw.options(test_type)), test_type)
-        return cmd
+        return test_type+' '+cmd
