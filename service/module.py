@@ -25,7 +25,6 @@ class Module(object):
 
         # init virtual variable
         self.vir_r, self.vir_b, self.vir_swpd, self.vir_free, self.vir_inact, self.vir_active, self.vir_si, self.vir_so, self.vir_bi, self.vir_bo, self.vir_in, self.vir_cs, self.vir_us, self.vir_sy, self.vir_id, self.vir_wa, self.vir_st = list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list()
-        # read property
 
     def run(self, test_type):
         pass
@@ -49,6 +48,7 @@ class Module(object):
             self.threads_statistics = dict_statistics
 
     def get_sys_data(self, list_sysbench, test_type):
+        self.sys_time=list()
         # get sysbench stat value
         for i in range(len(list_sysbench)):
             self.sys_time.append(float(list_sysbench[i][0].strip()))
@@ -69,6 +69,8 @@ class Module(object):
                 self.threads_lat.append(float(list_sysbench[i][3]))
 
     def get_vir_data(self, list_virstat):
+        # init virtual variable
+        self.vir_r, self.vir_b, self.vir_swpd, self.vir_free, self.vir_inact, self.vir_active, self.vir_si, self.vir_so, self.vir_bi, self.vir_bo, self.vir_in, self.vir_cs, self.vir_us, self.vir_sy, self.vir_id, self.vir_wa, self.vir_st = list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list()
         # get vir stat value
         for j in range(len(list_virstat)):
             self.vir_r.append(float(list_virstat[j][0]))

@@ -1,0 +1,34 @@
+
+[ 2s ] thds: 1 eps: 10.94 lat (ms,95%): 101.13
+[ 4s ] thds: 1 eps: 11.51 lat (ms,95%): 90.78
+[ 6s ] thds: 1 eps: 11.50 lat (ms,95%): 87.56
+[ 8s ] thds: 1 eps: 11.50 lat (ms,95%): 89.16
+[ 10s ] thds: 1 eps: 11.50 lat (ms,95%): 89.16
+CPU speed:
+events per second:    11.45
+
+General statistics:
+total time:                          10.0420s
+total number of events:              115
+
+Latency (ms):
+min:                                   85.92
+avg:                                   87.31
+max:                                  102.46
+95th percentile:                       90.78
+sum:                                10040.13
+
+Threads fairness:
+events (avg/stddev):           115.0000/0.00
+execution time (avg/stddev):   10.0401/0.00
+
+
+ 1  0 101644  73504 137476 224784    0    0     0     0  291  207 100  0  0  0  0
+
+ 1  0 101644  73504 137476 224784    0    0     0     0  289  198 100  0  0  0  0
+
+ 1  0 101644  73504 137464 224836    0    0     0    20  291  246 100  1  0  0  0
+
+ 1  0 101644  73504 137464 224840    0    0     0     0  286  214 100  1  0  0  0
+
+ 1  0 101644  73312 137464 224840    0    0     0     0  287  214 100  0  0  0  0

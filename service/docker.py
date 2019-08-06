@@ -1,4 +1,3 @@
-from tool.linefigure import LineFigure
 from tool.readfile import ReadFile
 from template.dockertemplate import Dockertemplate
 from datetime import datetime
