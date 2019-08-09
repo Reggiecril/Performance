@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use('Agg')
+matplotlib.use('Agg',force=True)
 import errno
 import os
 import matplotlib.pyplot as plt
@@ -28,15 +28,19 @@ class Figure(object):
     # for each list have to have
     # [first data list,second data list]
     def two_line_figure(self, x_coor, vm_list, docker_list, xlabel, ylabel, file_name):
+
         plt.plot(x_coor, vm_list, color="#0066CC", linestyle="--", marker=".", linewidth=1.0, label="VM")
         plt.plot(x_coor, docker_list, color="#CC0033", linestyle="--", marker="*", linewidth=1.0, label="Docker")
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
         plt.legend(loc='upper right')
         plt.show()
-        # path='../figure/'+self.time+'/'+self.test_type+'/'+file_name+'.png'
-        # self.check_path(path)
-        # plt.savefig(path)
+        path='./figure/'+self.time+'/'+self.test_type+'/'+file_name+'.png'
+        self.check_path(path)
+        plt.savefig(path)
+        plt.close()
+
+
 
     # for each list have to have
     # [label_name,first data list,second data list, color]
@@ -58,10 +62,12 @@ class Figure(object):
     def bar_figure(self, vm_field, docker_field,file_name):
         a=plt.bar(range(2), [float(vm_field), float(docker_field)],width = 0.35, align='center', tick_label=['vm', 'docker'])
         self.autolabel(a)
+        fig = plt.gcf()
         plt.show()
-        # path = '../figure/' + self.time + '/' + self.test_type + '/' + file_name+'.png'
-        # self.check_path(path)
-        # plt.savefig(path)
+        path = './figure/' + self.time + '/' + self.test_type + '/' + file_name+'.png'
+        self.check_path(path)
+        fig.savefig(path, dpi=100)
+        plt.close()
 
     def autolabel(self,rects):
         for rect in rects:

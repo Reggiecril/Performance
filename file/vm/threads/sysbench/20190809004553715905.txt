@@ -1,0 +1,26 @@
+
+[ 1s ] thds: 1 eps: 18133.34 lat (ms,95%): 0.09
+[ 2s ] thds: 1 eps: 18081.46 lat (ms,95%): 0.09
+[ 3s ] thds: 1 eps: 18149.32 lat (ms,95%): 0.09
+[ 4s ] thds: 1 eps: 17977.25 lat (ms,95%): 0.09
+[ 5s ] thds: 1 eps: 18074.23 lat (ms,95%): 0.08
+[ 6s ] thds: 1 eps: 18181.10 lat (ms,95%): 0.08
+[ 7s ] thds: 1 eps: 18027.34 lat (ms,95%): 0.09
+[ 8s ] thds: 1 eps: 18182.22 lat (ms,95%): 0.09
+[ 9s ] thds: 1 eps: 17854.98 lat (ms,95%): 0.09
+
+General statistics:
+total time:                          10.0005s
+total number of events:              180831
+
+Latency (ms):
+min:                                    0.05
+avg:                                    0.05
+max:                                    7.16
+95th percentile:                        0.09
+sum:                                 9928.89
+
+Threads fairness:
+events (avg/stddev):           180831.0000/0.00
+execution time (avg/stddev):   9.9289/0.00
+

@@ -10,18 +10,23 @@ class Docker(Module):
         super(Docker, self).__init__(time)
     def run(self, test_type):
 
-        t = Dockertemplate(False, test_type)
+        t = Dockertemplate('docker', test_type,self.now_time)
         t.run()
-        f = open("../file/docker/" + test_type + '/' + self.now_time + ".txt", "w")
-        f.write(t.sysbench + '\n' + t.stat)
+        sysbench_path="./file/docker/" + test_type + '/' +'sysbench/'+ self.now_time + ".txt"
+        self.check_path(sysbench_path)
+        f = open(sysbench_path, "w")
+        f.write(t.sysbench)
 
     def process(self, test_type):
         self.check_test_type(test_type)
         self.run(test_type)
-        list_sysbench, list_virstat,dict_statistics = ReadFile("../file/docker/" + test_type + '/' + self.now_time + ".txt").read_file()
-        self.get_sys_data(list_sysbench,test_type)
-        self.get_vir_data(list_virstat)
-        self.get_statistics_data(dict_statistics,test_type)
+        # list_sysbench,dict_statistics = ReadFile("./file/docker/" + test_type + '/'+'sysbench/' + self.now_time + ".txt").read_sysbench_file()
+        # list_virstat=ReadFile("./file/docker/" + test_type + '/'+'pidstat/'+ self.now_time + ".log").read_pidstat_file()
+        # print list_sysbench, dict_statistics
+        # print list_virstat
+        # self.get_sys_data(list_sysbench,test_type)
+        # self.get_vir_data(list_virstat)
+        # self.get_statistics_data(dict_statistics,test_type)
 
 # if __name__ == '__main__':
 #     time = datetime.now().strftime("%Y%m%d%H%M%S%f")

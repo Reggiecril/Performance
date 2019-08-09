@@ -1,6 +1,3 @@
-import sys
-
-sys.path.append('..')
 from tool.readfile import ReadFile
 from datetime import datetime
 from service.virtualmachine import Virtaulmachine
@@ -13,16 +10,18 @@ class Controller(object):
         self.vm = Virtaulmachine(time)
         self.docker = Docker(time)
         self.figure_path = '../figure' + time + '/'
+        self.time = time
 
     def cpu_test(self):
         test_type = 'cpu'
         self.vm.process(test_type)
         self.docker.process(test_type)
         self.balance(test_type)
-        f = Figure(time, test_type, 'sysbench')
-        b = Figure(time, test_type, 'vmstat')
-        f.two_line_figure(self.vm.sys_time, self.vm.cpu_eps, self.docker.cpu_eps, 'Time', 'Eps', 'eps')
-        f.two_line_figure(self.vm.sys_time, self.vm.cpu_lat, self.docker.cpu_lat, 'Time', 'Lat', 'lat')
+        sys_time = self.get_sys_time()
+        f = Figure(self.time, test_type, 'sysbench')
+        b = Figure(self.time, test_type, 'vmstat')
+        f.two_line_figure(sys_time, self.vm.cpu_eps, self.docker.cpu_eps, 'Time', 'Eps', 'eps')
+        f.two_line_figure(sys_time, self.vm.cpu_lat, self.docker.cpu_lat, 'Time', 'Lat', 'lat')
         f.bar_figure(self.vm.cpu_statistics['CPU_speed']['events_per_second'],
                      self.docker.cpu_statistics['CPU_speed']['events_per_second'], 'Events_Per_Second')
         f.bar_figure(self.vm.cpu_statistics['General_statistics']['total_time'],
@@ -32,16 +31,18 @@ class Controller(object):
                      'Total_Number_Of_Events')
         f.bar_figure(self.vm.cpu_statistics['Latency']['sum'], self.docker.cpu_statistics['Latency']['sum'],
                      'Latency_Sum')
-        b.two_line_figure(self.vm.sys_time, self.vm.vir_us, self.docker.vir_us, 'Time', 'CPU(%)', 'cpu_percent')
+        b.two_line_figure(sys_time, self.vm.vir_us, self.docker.vir_us, 'Time', 'CPU(%)', 'cpu_percent')
 
     def memory_test(self):
         test_type = 'memory'
         self.vm.process(test_type)
         self.docker.process(test_type)
         self.balance(test_type)
-        f = Figure(time, test_type, 'sysbench')
-        b = Figure(time, test_type, 'vmstat')
-        f.two_line_figure(self.vm.sys_time, self.vm.memory_usage, self.docker.memory_usage, 'Time', 'Memory_Usage',
+        f = Figure(self.time, test_type, 'sysbench')
+        b = Figure(self.time, test_type, 'vmstat')
+        sys_time = self.get_sys_time()
+
+        f.two_line_figure(sys_time, self.vm.memory_usage, self.docker.memory_usage, 'Time', 'Memory_Usage',
                           'memory_usage')
         f.bar_figure(self.vm.memory_statistics['Total_operations'], self.docker.memory_statistics['Total_operations'],
                      'Memory_Read_Time')
@@ -58,16 +59,18 @@ class Controller(object):
         self.vm.process(test_type)
         self.docker.process(test_type)
         self.balance(test_type)
-        f = Figure(time, test_type, 'sysbench')
-        b = Figure(time, test_type, 'vmstat')
+        f = Figure(self.time, test_type, 'sysbench')
+        b = Figure(self.time, test_type, 'vmstat')
+        sys_time = self.get_sys_time()
+
         ###########fileio#############
-        f.two_line_figure(self.vm.sys_time, self.vm.fileio_reads, self.docker.fileio_reads, 'Time', 'fileio_reads',
+        f.two_line_figure(sys_time, self.vm.fileio_reads, self.docker.fileio_reads, 'Time', 'fileio_reads',
                           'fileio_reads')
-        f.two_line_figure(self.vm.sys_time, self.vm.fileio_writes, self.docker.fileio_writes, 'Time', 'fileio_writes',
+        f.two_line_figure(sys_time, self.vm.fileio_writes, self.docker.fileio_writes, 'Time', 'fileio_writes',
                           'fileio_writes')
-        f.two_line_figure(self.vm.sys_time, self.vm.fileio_fsyncs, self.docker.fileio_fsyncs, 'Time', 'fileio_fsyncs',
+        f.two_line_figure(sys_time, self.vm.fileio_fsyncs, self.docker.fileio_fsyncs, 'Time', 'fileio_fsyncs',
                           'fileio_fsyncs')
-        f.two_line_figure(self.vm.sys_time, self.vm.fileio_latency, self.docker.fileio_latency, 'Time', 'fileio_fsyncs',
+        f.two_line_figure(sys_time, self.vm.fileio_latency, self.docker.fileio_latency, 'Time', 'fileio_fsyncs',
                           'fileio_latency')
         f.bar_figure(self.vm.fileio_statistics['File_operations']['writes'],
                      self.docker.fileio_statistics['File_operations']['writes'], 'File_Write')
@@ -82,18 +85,20 @@ class Controller(object):
                      'total_number_of_events')
         f.bar_figure(self.vm.fileio_statistics['Latency']['sum'], self.docker.fileio_statistics['Latency']['sum'],
                      'Latency_Sum')
-        b.two_line_figure(self.vm.sys_time, self.vm.vir_bi, self.docker.vir_bi, 'Time', 'bi', 'bi')
-        b.two_line_figure(self.vm.sys_time, self.vm.vir_bo, self.docker.vir_bo, 'Time', 'bo', 'bo')
+        b.two_line_figure(sys_time, self.vm.vir_bi, self.docker.vir_bi, 'Time', 'bi', 'bi')
+        b.two_line_figure(sys_time, self.vm.vir_bo, self.docker.vir_bo, 'Time', 'bo', 'bo')
 
     def threads_test(self):
         test_type = 'threads'
         self.vm.process(test_type)
         self.docker.process(test_type)
         self.balance(test_type)
-        f = Figure(time, test_type, 'sysbench')
-        b = Figure(time, test_type, 'vmstat')
-        f.two_line_figure(self.vm.sys_time, self.vm.threads_eps, self.docker.threads_eps, 'Time', 'Eps', 'eps')
-        f.two_line_figure(self.vm.sys_time, self.vm.threads_lat, self.docker.threads_lat, 'Time', 'Lat', 'Lat')
+        f = Figure(self.time, test_type, 'sysbench')
+        b = Figure(self.time, test_type, 'vmstat')
+        sys_time = self.get_sys_time()
+
+        f.two_line_figure(sys_time, self.vm.threads_eps, self.docker.threads_eps, 'Time', 'Eps', 'eps')
+        f.two_line_figure(sys_time, self.vm.threads_lat, self.docker.threads_lat, 'Time', 'Lat', 'Lat')
         f.bar_figure(self.vm.threads_statistics['Latency']['sum'], self.docker.threads_statistics['Latency']['sum'],
                      'Events_Per_Second')
         f.bar_figure(self.vm.threads_statistics['General_statistics']['total_time'],
@@ -171,12 +176,10 @@ class Controller(object):
         module.vir_wa.append(0.0)
         module.vir_st.append(0.0)
 
+    def get_sys_time(self):
+        if len(self.vm.sys_time) - len(self.docker.sys_time) > 0:
+            sys_time = self.vm.sys_time
+        else:
+            sys_time = self.docker.sys_time
 
-if __name__ == '__main__':
-    time = datetime.now().strftime("%Y%m%d%H%M%S%f")
-    print time
-    c = Controller(time)
-    c.cpu_test()
-    c.memory_test()
-    c.fileio_test()
-    c.threads_test()
+        return sys_time

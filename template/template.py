@@ -1,22 +1,24 @@
 import ConfigParser
+import errno
 import os
+import shutil
 
 from tool.property import Property
 
 
 class Template(object):
-    def __init__(self, vm_type, test_type):
+    def __init__(self, vm_type, test_type, time):
         self.test_type = test_type
         self.vm_type = vm_type
+        self.time=time
         # get sysbench and virtual command
-        p = Property(vm_type, test_type)
+        p = Property(vm_type, test_type, time)
         self.sys_cmd = p.sys_cmd()
         self.vir_stat = p.vir_stat()
         # get the output
         self.sysbench = ""
-        self.stat = ""
         # get Property
-        self.config_raw = self.read_property("../property.ini")
+        self.config_raw = self.read_property("property.ini")
         self.default = self.config_raw.defaults()
         # init virtual variable
         self.vir_r, self.vir_b, self.vir_swpd, self.vir_free, self.vir_inact, self.vir_active, self.vir_si, self.vir_so, self.vir_bi, self.vir_bo, self.vir_in, self.vir_cs, self.vir_us, self.vir_sy, self.vir_id, self.vir_wa, self.vir_st = list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list()
@@ -30,11 +32,35 @@ class Template(object):
     def run(self):
         if self.test_type == 'fileio':
             self.fileio_prepared()
-            self.run_sysbench_vir(self.sys_cmd, self.vir_stat)
+            self.loop_sysbench_vir(self.sys_cmd, self.vir_stat)
             self.fileio_clean()
         else:
-            self.run_sysbench_vir(self.sys_cmd, self.vir_stat)
+            self.loop_sysbench_vir(self.sys_cmd, self.vir_stat)
+        self.convert_pidstat_files()
 
+    def loop_sysbench_vir(self, sys_cmd, vir_stat):
+        loop_time = int(self.default.get('loop'))
+        count = 1
+        ex_vir_stat=vir_stat
+        while count <= loop_time:
+            vir_stat=ex_vir_stat
+            vir_stat = vir_stat[:vir_stat.rindex('/')+1]+str(count) + '.log'+vir_stat[vir_stat.rindex('/')+1:]
+            self.run_sysbench_vir(sys_cmd, vir_stat)
+            count += 1
+    def convert_pidstat_files(self):
+        meragefiledir = "./file/"+self.vm_type+"/"+self.test_type+"/pidstat/"+self.time
+        filenames = os.listdir(meragefiledir)
+        write_path='./file/'+self.vm_type+'/'+self.test_type+'/pidstat/'+self.time+'.log'
+        self.check_path(write_path)
+        file = open(write_path, 'w')
+
+        for filename in filenames:
+            filepath = meragefiledir + '/' + filename
+            for line in open(filepath):
+                file.writelines(line)
+            file.write('\n')
+        shutil.rmtree(meragefiledir, ignore_errors=True)
+        file.close()
     def fileio_prepared(self):
         default = self.config_raw.defaults()
         test = self.get_test(self.test_type)
@@ -83,3 +109,10 @@ class Template(object):
             os._exit(0)
         cmd = self.get_command(self.get_vm_option_list(self.config_raw.options(test_type)), test_type)
         return cmd
+    def check_path(self, filename):
+        if not os.path.exists(os.path.dirname(filename)):
+            try:
+                os.makedirs(os.path.dirname(filename))
+            except OSError as exc:  # Guard against race condition
+                if exc.errno != errno.EEXIST:
+                    raise

@@ -1,0 +1,27 @@
+
+[ 1s ] 14726.07 MiB/sec
+[ 2s ] 14780.39 MiB/sec
+[ 3s ] 14713.93 MiB/sec
+[ 4s ] 14529.28 MiB/sec
+[ 5s ] 15068.04 MiB/sec
+[ 6s ] 14812.75 MiB/sec
+Total operations: 102400 (14783.80 per second)
+
+102400.00 MiB transferred (14783.80 MiB/sec)
+
+
+General statistics:
+total time:                          6.9248s
+total number of events:              102400
+
+Latency (ms):
+min:                                    0.05
+avg:                                    0.07
+max:                                    7.00
+95th percentile:                        0.13
+sum:                                 6867.02
+
+Threads fairness:
+events (avg/stddev):           102400.0000/0.00
+execution time (avg/stddev):   6.8670/0.00
+

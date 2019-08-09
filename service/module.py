@@ -1,4 +1,5 @@
 import ConfigParser
+import errno
 import os
 
 
@@ -24,7 +25,7 @@ class Module(object):
         self.threads_statistics = dict()
 
         # init virtual variable
-        self.vir_r, self.vir_b, self.vir_swpd, self.vir_free, self.vir_inact, self.vir_active, self.vir_si, self.vir_so, self.vir_bi, self.vir_bo, self.vir_in, self.vir_cs, self.vir_us, self.vir_sy, self.vir_id, self.vir_wa, self.vir_st = list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list()
+        self.vir_user, self.vir_system, self.vir_guest, self.vir_wait, self.vir_cpu_percent, self.vir_cpu,self.vir_minflt, self.vir_majflt, self.vir_vsz, self.vir_rss, self.vir_mem, self.vir_rd, self.vir_wr, self.vir_ccwr, self.vir_iodelay= list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(),list(), list(), list(), list()
 
     def run(self, test_type):
         pass
@@ -70,28 +71,34 @@ class Module(object):
 
     def get_vir_data(self, list_virstat):
         # init virtual variable
-        self.vir_r, self.vir_b, self.vir_swpd, self.vir_free, self.vir_inact, self.vir_active, self.vir_si, self.vir_so, self.vir_bi, self.vir_bo, self.vir_in, self.vir_cs, self.vir_us, self.vir_sy, self.vir_id, self.vir_wa, self.vir_st = list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list()
+        self.vir_user, self.vir_system, self.vir_guest, self.vir_wait, self.vir_cpu_percent, self.vir_cpu,self.vir_minflt, self.vir_majflt, self.vir_vsz, self.vir_rss, self.vir_mem, self.vir_rd, self.vir_wr, self.vir_ccwr, self.vir_iodelay= list(), list(), list(), list(), list(), list(), list(), list(), list(), list(), list(),list(), list(), list(), list()
         # get vir stat value
         for j in range(len(list_virstat)):
-            self.vir_r.append(float(list_virstat[j][0]))
-            self.vir_b.append(float(list_virstat[j][1]))
-            self.vir_swpd.append(float(list_virstat[j][2]))
-            self.vir_free.append(float(list_virstat[j][3]))
-            self.vir_inact.append(float(list_virstat[j][4]))
-            self.vir_active.append(float(list_virstat[j][5]))
-            self.vir_si.append(float(list_virstat[j][6]))
-            self.vir_so.append(float(list_virstat[j][7]))
-            self.vir_bi.append(float(list_virstat[j][8]))
-            self.vir_bo.append(float(list_virstat[j][9]))
-            self.vir_in.append(float(list_virstat[j][10]))
-            self.vir_cs.append(float(list_virstat[j][11]))
-            self.vir_us.append(float(list_virstat[j][12]))
-            self.vir_sy.append(float(list_virstat[j][13]))
-            self.vir_id.append(float(list_virstat[j][14]))
-            self.vir_wa.append(float(list_virstat[j][15]))
-            self.vir_st.append(float(list_virstat[j][16]))
+            self.vir_user.append(float(list_virstat[j][0]))
+            self.vir_system.append(float(list_virstat[j][1]))
+            self.vir_guest.append(float(list_virstat[j][2]))
+            self.vir_wait.append(float(list_virstat[j][3]))
+            self.vir_cpu_percent.append(float(list_virstat[j][4]))
+            self.vir_cpu.append(float(list_virstat[j][5]))
+            self.vir_minflt.append(float(list_virstat[j][6]))
+            self.vir_majflt.append(float(list_virstat[j][7]))
+            self.vir_vsz.append(float(list_virstat[j][8]))
+            self.vir_rss.append(float(list_virstat[j][9]))
+            self.vir_mem.append(float(list_virstat[j][10]))
+            self.vir_rd.append(float(list_virstat[j][11]))
+            self.vir_wr.append(float(list_virstat[j][12]))
+            self.vir_ccwr.append(float(list_virstat[j][13]))
+            self.vir_iodelay.append(float(list_virstat[j][14]))
 
     def read_property(self, test_cfg):
         config_raw = ConfigParser.RawConfigParser()
         config_raw.read(test_cfg)
         return config_raw
+    def check_path(self, filename):
+        if not os.path.exists(os.path.dirname(filename)):
+            try:
+                os.makedirs(os.path.dirname(filename))
+            except OSError as exc:  # Guard against race condition
+                if exc.errno != errno.EEXIST:
+                    raise
+
