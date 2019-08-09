@@ -1,9 +1,5 @@
 from module import Module
 from template.nativetemplate import NativeTemplate
-from template.vmtemplate import VMTemplate
-from tool.readfile import ReadFile
-from datetime import datetime
-
 class Native(Module):
     def __init__(self, time):
         super(Native, self).__init__(time)

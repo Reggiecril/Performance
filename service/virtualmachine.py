@@ -1,7 +1,5 @@
 from module import Module
 from template.vmtemplate import VMTemplate
-from tool.readfile import ReadFile
-from datetime import datetime
 
 class Virtaulmachine(Module):
     def __init__(self, time):

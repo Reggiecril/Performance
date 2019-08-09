@@ -57,7 +57,10 @@ class Template(object):
         for filename in filenames:
             filepath = meragefiledir + '/' + filename
             for line in open(filepath):
-                file.writelines(line)
+                line = line.strip()
+                line_split = line.split(' ')
+                if line_split[-1] == 'sysbench':
+                    file.writelines(line+'\n')
             file.write('\n')
         shutil.rmtree(meragefiledir, ignore_errors=True)
         file.close()

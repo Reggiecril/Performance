@@ -2,7 +2,6 @@ from datetime import datetime
 
 from service.docker import Docker
 from service.virtualmachine import Virtaulmachine
-from tool.remote_vm import RemoteVM
 
 if __name__ == '__main__':
     time = datetime.now().strftime("%Y%m%d%H%M%S%f")

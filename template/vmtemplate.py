@@ -24,11 +24,10 @@ class VMTemplate(Template):
         subprocess.call(vir_stat,shell=True)
         while returncode is None:
             # get sysbench data
-            sysbench_line = p1.stdout.readline().strip()
-            sysbench_stat.append(sysbench_line)
-            print sysbench_line
+            sysbench_stat = p1.stdout.readlines()
             returncode = p1.poll()
         subprocess.call('killall -9 pidstat', shell=True)
 
         # transfer list to string
         self.sysbench = '\n'.join(sysbench_stat)
+        print self.sysbench
