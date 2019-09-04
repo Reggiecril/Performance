@@ -26,7 +26,7 @@ class VMTemplate(Template):
             # get sysbench data
             sysbench_stat = p1.stdout.readlines()
             returncode = p1.poll()
-        subprocess.call('killall -9 pidstat', shell=True)
+        subprocess.call('pkill -9 pidstat', shell=True)
 
         # transfer list to string
         self.sysbench = '\n'.join(sysbench_stat)

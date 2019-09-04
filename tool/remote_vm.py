@@ -23,7 +23,7 @@ class RemoteVM(object):
         client = paramiko.SSHClient()
         client.load_system_host_keys()
         client.connect(self.host, username=self.user, password=self.password, port=int(self.port))
-        stdin, stdout, stderr = client.exec_command('cd /home/Performance  && python Test.py '+self.time)
+        stdin, stdout, stderr = client.exec_command('cd /home/Performance  && python excute_vm.py '+self.time)
         print stdout.readlines()
         sftp = paramiko.SFTPClient.from_transport(client.get_transport())
         self.down_from_remote(sftp,'/home/Performance/file/vm','./file/vm')

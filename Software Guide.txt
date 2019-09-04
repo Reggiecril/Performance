@@ -1,0 +1,15 @@
+The script software is spilting to four fold and 2 python files.
+Folders are controller,service,template,tool.
+Files are excute_vm.py, excute.py, property.ini
+-------------------------------------------------------------------------
+excute.py is the main function.
+excute_vm.py is using in VM.
+property.ini is including all parameters.
+-------------------------------------------------------------------------
+Preparation:
+(make sure you deploy all VM and Container)
+1. copy the all of files and folds into VM.(under /home ) ps. if you did not using root account, then you need to sudo chmod -R /home 755
+2. Change parameters which you like.(To connect VM, you need change ip address and so on)
+
+
+

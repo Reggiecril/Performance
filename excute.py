@@ -1,19 +1,20 @@
 from datetime import datetime
 
 from service.docker import Docker
-from service.virtualmachine import Virtaulmachine
+from service.native import Native
+from tool.remote_vm import RemoteVM
 
 if __name__ == '__main__':
     time = datetime.now().strftime("%Y%m%d%H%M%S%f")
     # r = RemoteVM(time)
     # r.update_property()
     # r.execute()
-    d = Docker(time)
-    d.process("cpu")
-    d.process("memory")
-    d.process("fileio")
-    d.process("threads")
-    v=Virtaulmachine(time)
+    # d = Docker(time)
+    # d.process("cpu")
+    # d.process("memory")
+    # d.process("fileio")
+    # d.process("threads")
+    v=Native(time)
     v.process("cpu")
     v.process("memory")
     v.process("fileio")

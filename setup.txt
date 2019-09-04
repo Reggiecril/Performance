@@ -1,0 +1,16 @@
+#vm
+sudo apt-get install python-pip
+pip install matplotlib
+pip install paramiko
+curl -s https://packagecloud.io/install/repositories/akopytov/sysbench/script.deb.sh | sudo bash
+sudo apt -y install sysbench
+
+chmod -R 777 Performance
+#### put Performance under /home
+
+#docker
+wget -qO- https://get.docker.com/ | sh
+sudo service docker start
+
+docker pull reggiecril/sysbench
+docker run -it -d --name sysbench reggiecril/sysbench bash

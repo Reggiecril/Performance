@@ -28,4 +28,4 @@ class NativeTemplate(Template):
         subprocess.call('killall -9 pidstat', shell=True)
 
         # transfer list to string
-        self.sysbench = '\n'.join(sysbench_stat)
+        self.sysbench += '\n'.join(sysbench_stat)

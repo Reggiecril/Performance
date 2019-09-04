@@ -1,0 +1,586 @@
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 1.00 lat (ms,95%): 5607.61
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.18
+
+
+
+General statistics:
+
+    total time:                          11.1813s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5573.56
+
+         avg:                                 5590.45
+
+         max:                                 5607.34
+
+         95th percentile:                     5607.61
+
+         sum:                                11180.89
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   11.1809/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 1.00 lat (ms,95%): 5607.61
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.19
+
+
+
+General statistics:
+
+    total time:                          10.7937s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5177.55
+
+         avg:                                 5396.66
+
+         max:                                 5615.78
+
+         95th percentile:                     5607.61
+
+         sum:                                10793.33
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   10.7933/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 1.00 lat (ms,95%): 5813.24
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.18
+
+
+
+General statistics:
+
+    total time:                          10.8877s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5073.07
+
+         avg:                                 5443.70
+
+         max:                                 5814.33
+
+         95th percentile:                     5813.24
+
+         sum:                                10887.40
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   10.8874/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 1.00 lat (ms,95%): 5607.61
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.18
+
+
+
+General statistics:
+
+    total time:                          11.2094s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5583.03
+
+         avg:                                 5604.48
+
+         max:                                 5625.93
+
+         95th percentile:                     5607.61
+
+         sum:                                11208.96
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   11.2090/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 1.00 lat (ms,95%): 6026.41
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.18
+
+
+
+General statistics:
+
+    total time:                          11.1299s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5113.65
+
+         avg:                                 5564.77
+
+         max:                                 6015.89
+
+         95th percentile:                     6026.41
+
+         sum:                                11129.54
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   11.1295/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 1.00 lat (ms,95%): 6247.39
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.18
+
+
+
+General statistics:
+
+    total time:                          11.4076s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5108.35
+
+         avg:                                 5703.58
+
+         max:                                 6298.81
+
+         95th percentile:                     6247.39
+
+         sum:                                11407.16
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   11.4072/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 1.00 lat (ms,95%): 5607.61
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.19
+
+
+
+General statistics:
+
+    total time:                          10.6996s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5086.87
+
+         avg:                                 5349.62
+
+         max:                                 5612.38
+
+         95th percentile:                     5607.61
+
+         sum:                                10699.25
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   10.6992/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 1.00 lat (ms,95%): 6476.48
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.17
+
+
+
+General statistics:
+
+    total time:                          12.1029s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5567.91
+
+         avg:                                 6051.25
+
+         max:                                 6534.59
+
+         95th percentile:                     6476.48
+
+         sum:                                12102.50
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   12.1025/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 1.00 lat (ms,95%): 6135.91
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.17
+
+
+
+General statistics:
+
+    total time:                          11.7356s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5635.79
+
+         avg:                                 5867.62
+
+         max:                                 6099.45
+
+         95th percentile:                     6135.91
+
+         sum:                                11735.24
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   11.7352/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 1.00 lat (ms,95%): 6360.91
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.17
+
+
+
+General statistics:
+
+    total time:                          11.6392s
+
+    total number of events:              2
+
+
+
+Latency (ms):
+
+         min:                                 5330.39
+
+         avg:                                 5819.45
+
+         max:                                 6308.51
+
+         95th percentile:                     6360.91
+
+         sum:                                11638.89
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           2.0000/0.00
+
+    execution time (avg/stddev):   11.6389/0.00
+
+

@@ -41,7 +41,7 @@ class Template(object):
     def loop_sysbench_vir(self, sys_cmd, vir_stat):
         loop_time = int(self.default.get('loop'))
         count = 1
-        ex_vir_stat=vir_stat
+        ex_vir_stat=vir_stat.replace('-it ','')
         while count <= loop_time:
             vir_stat=ex_vir_stat
             vir_stat = vir_stat[:vir_stat.rindex('/')+1]+str(count) + '.log'+vir_stat[vir_stat.rindex('/')+1:]
@@ -68,7 +68,7 @@ class Template(object):
         default = self.config_raw.defaults()
         test = self.get_test(self.test_type)
         parameter = self.get_command(self.get_vm_option_list(self.config_raw.options("Parameter")), "Parameter")
-        if self.vm_type:
+        if self.vm_type=='vm' or self.vm_type=='native':
             cmd = default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' prepare'
         else:
             cmd = default['docker_run'] + ' ' + default['docker_image'] + ' ' + default[
@@ -80,7 +80,7 @@ class Template(object):
         default = self.config_raw.defaults()
         test = self.get_test(self.test_type)
         parameter = self.get_command(self.get_vm_option_list(self.config_raw.options("Parameter")), "Parameter")
-        if self.vm_type:
+        if self.vm_type=='vm' or self.vm_type=='native':
             cmd = default['sys_name'] + ' ' + self.test_type + ' ' + test + ' ' + parameter + ' cleanup'
         else:
             cmd = default['docker_run'] + ' ' + default['docker_image'] + ' ' + default[

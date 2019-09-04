@@ -1,0 +1,708 @@
+
+
+[ 1s ] reads: 33.62 MiB/s writes: 22.42 MiB/s fsyncs: 7514.80/s latency (ms,95%): 0.367
+
+[ 2s ] reads: 32.03 MiB/s writes: 21.35 MiB/s fsyncs: 7047.55/s latency (ms,95%): 0.374
+
+[ 3s ] reads: 32.07 MiB/s writes: 21.38 MiB/s fsyncs: 7226.81/s latency (ms,95%): 0.367
+
+[ 4s ] reads: 29.15 MiB/s writes: 19.43 MiB/s fsyncs: 6472.30/s latency (ms,95%): 0.367
+
+[ 5s ] reads: 32.04 MiB/s writes: 21.36 MiB/s fsyncs: 7275.25/s latency (ms,95%): 0.367
+
+[ 6s ] reads: 30.90 MiB/s writes: 20.60 MiB/s fsyncs: 6926.06/s latency (ms,95%): 0.374
+
+[ 7s ] reads: 32.65 MiB/s writes: 21.76 MiB/s fsyncs: 7275.89/s latency (ms,95%): 0.367
+
+[ 8s ] reads: 21.15 MiB/s writes: 14.10 MiB/s fsyncs: 4735.95/s latency (ms,95%): 0.374
+
+[ 9s ] reads: 12.03 MiB/s writes: 8.02 MiB/s fsyncs: 2669.53/s latency (ms,95%): 1.367
+
+[ 10s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2391.52/s latency (ms,95%): 1.496
+
+
+
+File operations:
+
+    reads/s:                      2781.56
+
+    writes/s:                     1854.38
+
+    fsyncs/s:                     5942.38
+
+
+
+Throughput:
+
+    read, MiB/s:                  26.53
+
+    written, MiB/s:               17.68
+
+
+
+General statistics:
+
+    total time:                          10.0267s
+
+    total number of events:              105976
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.09
+
+         max:                                   96.98
+
+         95th percentile:                        0.37
+
+         sum:                                 9956.24
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           105976.0000/0.00
+
+    execution time (avg/stddev):   9.9562/0.00
+
+
+
+
+[ 1s ] reads: 19.39 MiB/s writes: 12.93 MiB/s fsyncs: 4322.60/s latency (ms,95%): 0.702
+
+[ 2s ] reads: 12.00 MiB/s writes: 8.00 MiB/s fsyncs: 2627.85/s latency (ms,95%): 1.319
+
+[ 3s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2392.93/s latency (ms,95%): 1.367
+
+[ 4s ] reads: 9.73 MiB/s writes: 6.48 MiB/s fsyncs: 2193.00/s latency (ms,95%): 1.343
+
+[ 5s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2610.08/s latency (ms,95%): 1.272
+
+[ 6s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2575.95/s latency (ms,95%): 1.295
+
+[ 7s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2563.07/s latency (ms,95%): 1.227
+
+[ 8s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2450.90/s latency (ms,95%): 1.392
+
+[ 9s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2450.07/s latency (ms,95%): 1.319
+
+[ 10s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2549.99/s latency (ms,95%): 1.367
+
+
+
+File operations:
+
+    reads/s:                      1255.19
+
+    writes/s:                     836.79
+
+    fsyncs/s:                     2678.04
+
+
+
+Throughput:
+
+    read, MiB/s:                  11.97
+
+    written, MiB/s:               7.98
+
+
+
+General statistics:
+
+    total time:                          10.0340s
+
+    total number of events:              47755
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.21
+
+         max:                                   86.37
+
+         95th percentile:                        1.25
+
+         sum:                                 9980.30
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           47755.0000/0.00
+
+    execution time (avg/stddev):   9.9803/0.00
+
+
+
+
+[ 1s ] reads: 17.65 MiB/s writes: 11.77 MiB/s fsyncs: 3852.01/s latency (ms,95%): 0.856
+
+[ 2s ] reads: 11.47 MiB/s writes: 7.65 MiB/s fsyncs: 2635.40/s latency (ms,95%): 1.343
+
+[ 3s ] reads: 12.00 MiB/s writes: 8.00 MiB/s fsyncs: 2587.79/s latency (ms,95%): 1.250
+
+[ 4s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2612.02/s latency (ms,95%): 1.272
+
+[ 5s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2333.64/s latency (ms,95%): 1.295
+
+[ 6s ] reads: 11.46 MiB/s writes: 7.64 MiB/s fsyncs: 2588.99/s latency (ms,95%): 1.319
+
+[ 7s ] reads: 11.43 MiB/s writes: 7.62 MiB/s fsyncs: 2505.39/s latency (ms,95%): 1.343
+
+[ 8s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2463.03/s latency (ms,95%): 1.343
+
+[ 9s ] reads: 10.88 MiB/s writes: 7.25 MiB/s fsyncs: 2378.40/s latency (ms,95%): 1.319
+
+[ 10s ] reads: 10.87 MiB/s writes: 7.24 MiB/s fsyncs: 2507.81/s latency (ms,95%): 1.343
+
+
+
+File operations:
+
+    reads/s:                      1235.68
+
+    writes/s:                     823.79
+
+    fsyncs/s:                     2641.60
+
+
+
+Throughput:
+
+    read, MiB/s:                  11.78
+
+    written, MiB/s:               7.86
+
+
+
+General statistics:
+
+    total time:                          10.0472s
+
+    total number of events:              47123
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.21
+
+         max:                                  102.08
+
+         95th percentile:                        1.25
+
+         sum:                                 9976.34
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           47123.0000/0.00
+
+    execution time (avg/stddev):   9.9763/0.00
+
+
+
+
+[ 1s ] reads: 16.52 MiB/s writes: 11.01 MiB/s fsyncs: 3637.35/s latency (ms,95%): 0.642
+
+[ 2s ] reads: 10.88 MiB/s writes: 7.25 MiB/s fsyncs: 2426.89/s latency (ms,95%): 1.319
+
+[ 3s ] reads: 10.29 MiB/s writes: 6.86 MiB/s fsyncs: 2344.22/s latency (ms,95%): 1.319
+
+[ 4s ] reads: 9.16 MiB/s writes: 6.10 MiB/s fsyncs: 2020.01/s latency (ms,95%): 1.496
+
+[ 5s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2287.97/s latency (ms,95%): 1.343
+
+[ 6s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2320.33/s latency (ms,95%): 1.295
+
+[ 7s ] reads: 11.24 MiB/s writes: 7.50 MiB/s fsyncs: 2482.72/s latency (ms,95%): 1.367
+
+[ 8s ] reads: 9.93 MiB/s writes: 6.62 MiB/s fsyncs: 2210.99/s latency (ms,95%): 1.163
+
+[ 9s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2506.00/s latency (ms,95%): 1.122
+
+
+
+File operations:
+
+    reads/s:                      1150.95
+
+    writes/s:                     767.30
+
+    fsyncs/s:                     2467.05
+
+
+
+Throughput:
+
+    read, MiB/s:                  10.98
+
+    written, MiB/s:               7.32
+
+
+
+General statistics:
+
+    total time:                          10.0048s
+
+    total number of events:              43765
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.23
+
+         max:                                  104.55
+
+         95th percentile:                        1.21
+
+         sum:                                 9976.92
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           43765.0000/0.00
+
+    execution time (avg/stddev):   9.9769/0.00
+
+
+
+
+[ 1s ] reads: 17.08 MiB/s writes: 11.39 MiB/s fsyncs: 3733.51/s latency (ms,95%): 0.741
+
+[ 2s ] reads: 11.45 MiB/s writes: 7.63 MiB/s fsyncs: 2523.01/s latency (ms,95%): 1.295
+
+[ 3s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2504.99/s latency (ms,95%): 1.272
+
+[ 4s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2325.02/s latency (ms,95%): 1.295
+
+[ 5s ] reads: 10.88 MiB/s writes: 7.25 MiB/s fsyncs: 2415.88/s latency (ms,95%): 1.367
+
+[ 6s ] reads: 9.72 MiB/s writes: 6.48 MiB/s fsyncs: 2123.21/s latency (ms,95%): 1.392
+
+[ 7s ] reads: 10.88 MiB/s writes: 7.25 MiB/s fsyncs: 2467.27/s latency (ms,95%): 1.343
+
+[ 8s ] reads: 12.01 MiB/s writes: 8.00 MiB/s fsyncs: 2711.48/s latency (ms,95%): 1.227
+
+[ 9s ] reads: 17.17 MiB/s writes: 11.44 MiB/s fsyncs: 3757.98/s latency (ms,95%): 0.755
+
+[ 10s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2579.00/s latency (ms,95%): 1.367
+
+
+
+File operations:
+
+    reads/s:                      1272.33
+
+    writes/s:                     848.22
+
+    fsyncs/s:                     2715.20
+
+
+
+Throughput:
+
+    read, MiB/s:                  12.13
+
+    written, MiB/s:               8.09
+
+
+
+General statistics:
+
+    total time:                          10.0411s
+
+    total number of events:              48445
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.21
+
+         max:                                   91.49
+
+         95th percentile:                        1.18
+
+         sum:                                 9978.20
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           48445.0000/0.00
+
+    execution time (avg/stddev):   9.9782/0.00
+
+
+
+
+[ 1s ] reads: 18.23 MiB/s writes: 12.15 MiB/s fsyncs: 4021.22/s latency (ms,95%): 0.782
+
+[ 2s ] reads: 12.02 MiB/s writes: 8.01 MiB/s fsyncs: 2626.54/s latency (ms,95%): 1.227
+
+[ 3s ] reads: 8.58 MiB/s writes: 5.72 MiB/s fsyncs: 2002.14/s latency (ms,95%): 1.443
+
+[ 4s ] reads: 11.45 MiB/s writes: 7.63 MiB/s fsyncs: 2584.34/s latency (ms,95%): 1.392
+
+[ 5s ] reads: 10.87 MiB/s writes: 7.24 MiB/s fsyncs: 2421.69/s latency (ms,95%): 1.343
+
+[ 6s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2515.67/s latency (ms,95%): 1.295
+
+[ 7s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2334.02/s latency (ms,95%): 1.367
+
+[ 8s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2384.99/s latency (ms,95%): 1.367
+
+[ 9s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2463.01/s latency (ms,95%): 1.319
+
+[ 10s ] reads: 10.87 MiB/s writes: 7.24 MiB/s fsyncs: 2514.16/s latency (ms,95%): 1.295
+
+
+
+File operations:
+
+    reads/s:                      1209.02
+
+    writes/s:                     806.01
+
+    fsyncs/s:                     2585.83
+
+
+
+Throughput:
+
+    read, MiB/s:                  11.53
+
+    written, MiB/s:               7.69
+
+
+
+General statistics:
+
+    total time:                          10.0204s
+
+    total number of events:              45994
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.22
+
+         max:                                   85.84
+
+         95th percentile:                        1.25
+
+         sum:                                 9977.94
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           45994.0000/0.00
+
+    execution time (avg/stddev):   9.9779/0.00
+
+
+
+
+[ 1s ] reads: 16.54 MiB/s writes: 11.03 MiB/s fsyncs: 3678.59/s latency (ms,95%): 0.872
+
+[ 2s ] reads: 10.29 MiB/s writes: 6.86 MiB/s fsyncs: 2230.45/s latency (ms,95%): 1.343
+
+[ 3s ] reads: 11.47 MiB/s writes: 7.64 MiB/s fsyncs: 2655.30/s latency (ms,95%): 1.272
+
+[ 4s ] reads: 11.42 MiB/s writes: 7.61 MiB/s fsyncs: 2475.03/s latency (ms,95%): 1.205
+
+[ 5s ] reads: 11.45 MiB/s writes: 7.63 MiB/s fsyncs: 2635.35/s latency (ms,95%): 1.319
+
+[ 6s ] reads: 12.04 MiB/s writes: 8.03 MiB/s fsyncs: 2630.90/s latency (ms,95%): 1.319
+
+[ 7s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2524.10/s latency (ms,95%): 1.319
+
+[ 8s ] reads: 11.42 MiB/s writes: 7.61 MiB/s fsyncs: 2603.78/s latency (ms,95%): 1.319
+
+[ 9s ] reads: 12.59 MiB/s writes: 8.39 MiB/s fsyncs: 2747.84/s latency (ms,95%): 1.319
+
+[ 10s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2653.13/s latency (ms,95%): 1.295
+
+
+
+File operations:
+
+    reads/s:                      1254.97
+
+    writes/s:                     836.65
+
+    fsyncs/s:                     2681.55
+
+
+
+Throughput:
+
+    read, MiB/s:                  11.97
+
+    written, MiB/s:               7.98
+
+
+
+General statistics:
+
+    total time:                          10.0376s
+
+    total number of events:              47795
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.21
+
+         max:                                   93.67
+
+         95th percentile:                        1.25
+
+         sum:                                 9973.86
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           47795.0000/0.00
+
+    execution time (avg/stddev):   9.9739/0.00
+
+
+
+
+[ 1s ] reads: 18.24 MiB/s writes: 12.16 MiB/s fsyncs: 3961.46/s latency (ms,95%): 0.690
+
+[ 2s ] reads: 10.86 MiB/s writes: 7.24 MiB/s fsyncs: 2514.84/s latency (ms,95%): 1.392
+
+[ 3s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2389.03/s latency (ms,95%): 1.417
+
+[ 4s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2486.74/s latency (ms,95%): 1.319
+
+[ 5s ] reads: 10.87 MiB/s writes: 7.25 MiB/s fsyncs: 2419.82/s latency (ms,95%): 1.367
+
+[ 6s ] reads: 10.90 MiB/s writes: 7.26 MiB/s fsyncs: 2348.18/s latency (ms,95%): 1.392
+
+[ 7s ] reads: 10.84 MiB/s writes: 7.23 MiB/s fsyncs: 2425.01/s latency (ms,95%): 1.417
+
+[ 8s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2414.07/s latency (ms,95%): 1.417
+
+[ 9s ] reads: 10.88 MiB/s writes: 7.25 MiB/s fsyncs: 2417.20/s latency (ms,95%): 1.392
+
+[ 10s ] reads: 12.01 MiB/s writes: 8.01 MiB/s fsyncs: 2631.35/s latency (ms,95%): 1.343
+
+
+
+File operations:
+
+    reads/s:                      1218.37
+
+    writes/s:                     812.25
+
+    fsyncs/s:                     2599.49
+
+
+
+Throughput:
+
+    read, MiB/s:                  11.62
+
+    written, MiB/s:               7.75
+
+
+
+General statistics:
+
+    total time:                          10.0423s
+
+    total number of events:              46387
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.22
+
+         max:                                   18.64
+
+         95th percentile:                        1.27
+
+         sum:                                 9975.31
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           46387.0000/0.00
+
+    execution time (avg/stddev):   9.9753/0.00
+
+
+
+
+[ 1s ] reads: 18.79 MiB/s writes: 12.53 MiB/s fsyncs: 4191.27/s latency (ms,95%): 0.630
+
+[ 2s ] reads: 12.02 MiB/s writes: 8.01 MiB/s fsyncs: 2575.99/s latency (ms,95%): 1.295
+
+[ 3s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2559.06/s latency (ms,95%): 1.367
+
+[ 4s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2305.03/s latency (ms,95%): 1.319
+
+[ 5s ] reads: 10.88 MiB/s writes: 7.25 MiB/s fsyncs: 2450.32/s latency (ms,95%): 1.392
+
+[ 6s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2564.69/s latency (ms,95%): 1.367
+
+[ 7s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2606.62/s latency (ms,95%): 1.205
+
+[ 8s ] reads: 11.44 MiB/s writes: 7.62 MiB/s fsyncs: 2489.25/s latency (ms,95%): 1.343
+
+[ 9s ] reads: 16.59 MiB/s writes: 11.06 MiB/s fsyncs: 3817.97/s latency (ms,95%): 0.728
+
+[ 10s ] reads: 11.45 MiB/s writes: 7.63 MiB/s fsyncs: 2554.73/s latency (ms,95%): 1.343
+
+
+
+File operations:
+
+    reads/s:                      1315.70
+
+    writes/s:                     877.13
+
+    fsyncs/s:                     2811.22
+
+
+
+Throughput:
+
+    read, MiB/s:                  12.55
+
+    written, MiB/s:               8.36
+
+
+
+General statistics:
+
+    total time:                          10.0283s
+
+    total number of events:              50076
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.20
+
+         max:                                   52.07
+
+         95th percentile:                        1.16
+
+         sum:                                 9974.11
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           50076.0000/0.00
+
+    execution time (avg/stddev):   9.9741/0.00
+
+
+
+
+[ 1s ] reads: 21.07 MiB/s writes: 14.04 MiB/s fsyncs: 4700.74/s latency (ms,95%): 0.092
+
+[ 2s ] reads: 13.16 MiB/s writes: 8.78 MiB/s fsyncs: 2835.19/s latency (ms,95%): 1.184
+
+[ 3s ] reads: 11.45 MiB/s writes: 7.63 MiB/s fsyncs: 2628.32/s latency (ms,95%): 1.319
+
+[ 4s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2485.66/s latency (ms,95%): 1.295
+
+[ 5s ] reads: 11.44 MiB/s writes: 7.63 MiB/s fsyncs: 2635.98/s latency (ms,95%): 1.272
+
+[ 6s ] reads: 10.89 MiB/s writes: 7.26 MiB/s fsyncs: 2454.11/s latency (ms,95%): 1.392
+
+[ 7s ] reads: 11.42 MiB/s writes: 7.61 MiB/s fsyncs: 2555.66/s latency (ms,95%): 1.295
+
+[ 8s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2299.73/s latency (ms,95%): 1.523
+
+[ 9s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2216.36/s latency (ms,95%): 1.319
+
+[ 10s ] reads: 10.30 MiB/s writes: 6.87 MiB/s fsyncs: 2497.28/s latency (ms,95%): 1.319
+
+
+
+File operations:
+
+    reads/s:                      1275.81
+
+    writes/s:                     850.54
+
+    fsyncs/s:                     2730.82
+
+
+
+Throughput:
+
+    read, MiB/s:                  12.17
+
+    written, MiB/s:               8.11
+
+
+
+General statistics:
+
+    total time:                          10.0127s
+
+    total number of events:              48527
+
+
+
+Latency (ms):
+
+         min:                                    0.00
+
+         avg:                                    0.21
+
+         max:                                   88.53
+
+         95th percentile:                        1.21
+
+         sum:                                 9971.68
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           48527.0000/0.00
+
+    execution time (avg/stddev):   9.9717/0.00
+
+

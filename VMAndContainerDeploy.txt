@@ -1,0 +1,4 @@
+VM Deploy:
+qemu-system-x86_64 -hda ~/Downloads/ubuntu-18.04.2-live-server-amd64.iso -hdb ubuntu.img -net nic -net user,hostfwd=tcp::5555-:22 -m 4096
+Container Deploy:
+sudo apt-get update && sudo apt-get install docker && docker pull reggiecril/sysbench

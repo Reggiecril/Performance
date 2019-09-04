@@ -24,8 +24,6 @@ class Dockertemplate(Template):
             # get sysbench data
             sysbench_stat = p1.stdout.readlines()
             returncode = p1.poll()
-
         subprocess.call('docker exec sysbench pkill -9 pidstat', shell=True)
-
         # transfer list to string
-        self.sysbench = '\n'.join(sysbench_stat)
+        self.sysbench += '\n'.join(sysbench_stat)

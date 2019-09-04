@@ -1,16 +1,15 @@
 import matplotlib
-matplotlib.use('Agg',force=True)
+# matplotlib.use('Agg',force=True)
 import errno
 import os
 import matplotlib.pyplot as plt
 
 class Figure(object):
-    def __init__(self,time,test_type,vm_or_sys):
+    def __init__(self,time,test_type):
         plt.figure(1)
         # image size
         self.time=time
         self.test_type=test_type
-        self.vm_or_sys=vm_or_sys
 
     ######################## Line Figure ########################
     # for each list have to have
@@ -27,18 +26,20 @@ class Figure(object):
     # two parametres are list
     # for each list have to have
     # [first data list,second data list]
-    def two_line_figure(self, x_coor, vm_list, docker_list, xlabel, ylabel, file_name):
+    def three_line_figure(self,native_list,vm_list, docker_list, xlabel, ylabel, figure_name):
 
-        plt.plot(x_coor, vm_list, color="#0066CC", linestyle="--", marker=".", linewidth=1.0, label="VM")
-        plt.plot(x_coor, docker_list, color="#CC0033", linestyle="--", marker="*", linewidth=1.0, label="Docker")
+        plt.plot(range(len(native_list)),native_list, color="#0066CC", linestyle="--", marker=".", linewidth=1.0, label="Native")
+        plt.plot(range(len(vm_list)), vm_list, color="#CC0033", linestyle="--", marker=",", linewidth=1.0, label="VM")
+        plt.plot(range(len(docker_list)), docker_list, color="#003300", linestyle="--", marker="*", linewidth=1.0, label="Docker")
+
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
         plt.legend(loc='upper right')
         plt.show()
-        path='./figure/'+self.time+'/'+self.test_type+'/'+file_name+'.png'
-        self.check_path(path)
-        plt.savefig(path)
-        plt.close()
+        # path='./figure/'+self.time+'/'+self.test_type+'/'+figure_name+'.png'
+        # self.check_path(path)
+        # plt.savefig(path)
+        # plt.close()
 
 
 
@@ -59,12 +60,12 @@ class Figure(object):
     #     plt.savefig(path)
 
     ######################## Bar Figure ########################
-    def bar_figure(self, vm_field, docker_field,file_name):
+    def bar_figure(self, vm_field, docker_field,figure_name):
         a=plt.bar(range(2), [float(vm_field), float(docker_field)],width = 0.35, align='center', tick_label=['vm', 'docker'])
         self.autolabel(a)
         fig = plt.gcf()
         plt.show()
-        path = './figure/' + self.time + '/' + self.test_type + '/' + file_name+'.png'
+        path = './figure/' + self.time + '/' + self.test_type + '/' + figure_name+'.png'
         self.check_path(path)
         fig.savefig(path, dpi=100)
         plt.close()

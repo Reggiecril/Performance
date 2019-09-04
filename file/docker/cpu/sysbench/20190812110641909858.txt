@@ -1,0 +1,3092 @@
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 136s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 137s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 138s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          138.2546s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               138241.76
+
+         avg:                               138241.76
+
+         max:                               138241.76
+
+         95th percentile:                   100000.00
+
+         sum:                               138241.76
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   138.2418/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 136s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 137s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          137.7909s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               137790.52
+
+         avg:                               137790.52
+
+         max:                               137790.52
+
+         95th percentile:                   100000.00
+
+         sum:                               137790.52
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   137.7905/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          135.5904s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               135589.89
+
+         avg:                               135589.89
+
+         max:                               135589.89
+
+         95th percentile:                   100000.00
+
+         sum:                               135589.89
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   135.5899/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 136s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 137s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          137.3763s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               137375.86
+
+         avg:                               137375.86
+
+         max:                               137375.86
+
+         95th percentile:                   100000.00
+
+         sum:                               137375.86
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   137.3759/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          134.9373s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               134936.86
+
+         avg:                               134936.86
+
+         max:                               134936.86
+
+         95th percentile:                   100000.00
+
+         sum:                               134936.86
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   134.9369/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 136s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          136.1719s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               136171.43
+
+         avg:                               136171.43
+
+         max:                               136171.43
+
+         95th percentile:                   100000.00
+
+         sum:                               136171.43
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   136.1714/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          135.2553s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               135254.86
+
+         avg:                               135254.86
+
+         max:                               135254.86
+
+         95th percentile:                   100000.00
+
+         sum:                               135254.86
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   135.2549/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 136s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 137s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 138s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 139s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          139.3249s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               139324.56
+
+         avg:                               139324.56
+
+         max:                               139324.56
+
+         95th percentile:                   100000.00
+
+         sum:                               139324.56
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   139.3246/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 135s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 136s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          136.4643s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               136463.95
+
+         avg:                               136463.95
+
+         max:                               136463.95
+
+         95th percentile:                   100000.00
+
+         sum:                               136463.95
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   136.4640/0.00
+
+
+
+
+[ 1s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 2s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 3s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 4s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 5s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 6s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 7s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 8s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 9s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 10s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 11s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 12s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 13s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 14s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 15s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 16s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 17s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 18s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 19s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 20s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 21s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 22s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 23s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 24s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 25s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 26s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 27s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 28s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 29s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 30s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 31s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 32s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 33s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 34s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 35s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 36s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 37s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 38s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 39s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 40s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 41s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 42s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 43s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 44s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 45s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 46s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 47s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 48s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 49s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 50s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 51s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 52s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 53s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 54s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 55s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 56s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 57s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 58s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 59s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 60s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 61s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 62s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 63s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 64s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 65s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 66s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 67s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 68s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 69s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 70s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 71s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 72s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 73s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 74s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 75s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 76s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 77s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 78s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 79s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 80s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 81s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 82s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 83s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 84s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 85s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 86s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 87s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 88s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 89s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 90s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 91s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 92s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 93s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 94s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 95s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 96s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 97s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 98s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 99s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 100s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 101s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 102s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 103s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 104s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 105s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 106s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 107s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 108s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 109s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 110s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 111s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 112s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 113s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 114s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 115s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 116s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 117s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 118s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 119s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 120s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 121s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 122s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 123s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 124s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 125s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 126s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 127s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 128s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 129s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 130s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 131s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 132s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 133s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+[ 134s ] thds: 1 eps: 0.00 lat (ms,95%): 0.00
+
+CPU speed:
+
+    events per second:     0.01
+
+
+
+General statistics:
+
+    total time:                          134.8077s
+
+    total number of events:              1
+
+
+
+Latency (ms):
+
+         min:                               134807.30
+
+         avg:                               134807.30
+
+         max:                               134807.30
+
+         95th percentile:                   100000.00
+
+         sum:                               134807.30
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           1.0000/0.00
+
+    execution time (avg/stddev):   134.8073/0.00
+
+

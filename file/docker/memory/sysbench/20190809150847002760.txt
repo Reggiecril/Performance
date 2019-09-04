@@ -1,0 +1,590 @@
+
+
+[ 1s ] 7788.71 MiB/sec
+
+[ 2s ] 12392.52 MiB/sec
+
+[ 3s ] 13092.63 MiB/sec
+
+[ 4s ] 15004.87 MiB/sec
+
+[ 5s ] 16471.24 MiB/sec
+
+[ 6s ] 16703.15 MiB/sec
+
+[ 7s ] 16885.45 MiB/sec
+
+[ 8s ] 16793.23 MiB/sec
+
+[ 9s ] 16646.84 MiB/sec
+
+Total operations: 148292 (14822.35 per second)
+
+
+
+148292.00 MiB transferred (14822.35 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0003s
+
+    total number of events:              148292
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.07
+
+         max:                                    1.25
+
+         95th percentile:                        0.11
+
+         sum:                                 9957.79
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           148292.0000/0.00
+
+    execution time (avg/stddev):   9.9578/0.00
+
+
+
+
+[ 1s ] 12566.10 MiB/sec
+
+[ 2s ] 12952.57 MiB/sec
+
+[ 3s ] 15114.84 MiB/sec
+
+[ 4s ] 17265.11 MiB/sec
+
+[ 5s ] 17396.63 MiB/sec
+
+[ 6s ] 17233.69 MiB/sec
+
+[ 7s ] 16855.03 MiB/sec
+
+[ 8s ] 17118.89 MiB/sec
+
+[ 9s ] 16839.69 MiB/sec
+
+Total operations: 160075 (16000.31 per second)
+
+
+
+160075.00 MiB transferred (16000.31 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0002s
+
+    total number of events:              160075
+
+
+
+Latency (ms):
+
+         min:                                    0.05
+
+         avg:                                    0.06
+
+         max:                                    1.16
+
+         95th percentile:                        0.08
+
+         sum:                                 9955.14
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           160075.0000/0.00
+
+    execution time (avg/stddev):   9.9551/0.00
+
+
+
+
+[ 1s ] 11172.53 MiB/sec
+
+[ 2s ] 13012.05 MiB/sec
+
+[ 3s ] 13366.84 MiB/sec
+
+[ 4s ] 15881.23 MiB/sec
+
+[ 5s ] 16961.06 MiB/sec
+
+[ 6s ] 16953.36 MiB/sec
+
+[ 7s ] 17296.30 MiB/sec
+
+[ 8s ] 17216.59 MiB/sec
+
+[ 9s ] 17199.88 MiB/sec
+
+Total operations: 155825 (15572.29 per second)
+
+
+
+155825.00 MiB transferred (15572.29 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0023s
+
+    total number of events:              155825
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.06
+
+         max:                                    1.18
+
+         95th percentile:                        0.08
+
+         sum:                                 9955.40
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           155825.0000/0.00
+
+    execution time (avg/stddev):   9.9554/0.00
+
+
+
+
+[ 1s ] 11763.93 MiB/sec
+
+[ 2s ] 12995.81 MiB/sec
+
+[ 3s ] 14481.54 MiB/sec
+
+[ 4s ] 15570.03 MiB/sec
+
+[ 5s ] 17231.40 MiB/sec
+
+[ 6s ] 14847.54 MiB/sec
+
+[ 7s ] 13037.93 MiB/sec
+
+[ 8s ] 14671.18 MiB/sec
+
+[ 9s ] 14804.77 MiB/sec
+
+Total operations: 145619 (14549.55 per second)
+
+
+
+145619.00 MiB transferred (14549.55 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0048s
+
+    total number of events:              145619
+
+
+
+Latency (ms):
+
+         min:                                    0.05
+
+         avg:                                    0.07
+
+         max:                                    1.57
+
+         95th percentile:                        0.09
+
+         sum:                                 9959.12
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           145619.0000/0.00
+
+    execution time (avg/stddev):   9.9591/0.00
+
+
+
+
+[ 1s ] 11825.26 MiB/sec
+
+[ 2s ] 12811.70 MiB/sec
+
+[ 3s ] 13555.60 MiB/sec
+
+[ 4s ] 16014.07 MiB/sec
+
+[ 5s ] 17003.14 MiB/sec
+
+[ 6s ] 17328.71 MiB/sec
+
+[ 7s ] 17079.14 MiB/sec
+
+[ 8s ] 16907.66 MiB/sec
+
+[ 9s ] 16863.16 MiB/sec
+
+Total operations: 156264 (15619.15 per second)
+
+
+
+156264.00 MiB transferred (15619.15 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0003s
+
+    total number of events:              156264
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.06
+
+         max:                                    1.18
+
+         95th percentile:                        0.08
+
+         sum:                                 9955.12
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           156264.0000/0.00
+
+    execution time (avg/stddev):   9.9551/0.00
+
+
+
+
+[ 1s ] 8937.23 MiB/sec
+
+[ 2s ] 12586.06 MiB/sec
+
+[ 3s ] 13472.18 MiB/sec
+
+[ 4s ] 15936.17 MiB/sec
+
+[ 5s ] 16689.92 MiB/sec
+
+[ 6s ] 16468.77 MiB/sec
+
+[ 7s ] 10879.36 MiB/sec
+
+[ 8s ] 16654.68 MiB/sec
+
+[ 9s ] 16944.98 MiB/sec
+
+Total operations: 145599 (14553.00 per second)
+
+
+
+145599.00 MiB transferred (14553.00 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0004s
+
+    total number of events:              145599
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.07
+
+         max:                                    1.20
+
+         95th percentile:                        0.10
+
+         sum:                                 9957.97
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           145599.0000/0.00
+
+    execution time (avg/stddev):   9.9580/0.00
+
+
+
+
+[ 1s ] 10644.81 MiB/sec
+
+[ 2s ] 12844.53 MiB/sec
+
+[ 3s ] 13432.57 MiB/sec
+
+[ 4s ] 15978.31 MiB/sec
+
+[ 5s ] 16853.66 MiB/sec
+
+[ 6s ] 17099.21 MiB/sec
+
+[ 7s ] 16630.57 MiB/sec
+
+[ 8s ] 16751.78 MiB/sec
+
+[ 9s ] 17401.49 MiB/sec
+
+Total operations: 155083 (15501.25 per second)
+
+
+
+155083.00 MiB transferred (15501.25 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0003s
+
+    total number of events:              155083
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.06
+
+         max:                                    1.18
+
+         95th percentile:                        0.08
+
+         sum:                                 9956.60
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           155083.0000/0.00
+
+    execution time (avg/stddev):   9.9566/0.00
+
+
+
+
+[ 1s ] 8544.40 MiB/sec
+
+[ 2s ] 12880.33 MiB/sec
+
+[ 3s ] 13601.63 MiB/sec
+
+[ 4s ] 16152.34 MiB/sec
+
+[ 5s ] 16880.67 MiB/sec
+
+[ 6s ] 16391.63 MiB/sec
+
+[ 7s ] 16704.69 MiB/sec
+
+[ 8s ] 16845.97 MiB/sec
+
+[ 9s ] 16548.46 MiB/sec
+
+Total operations: 151455 (15138.46 per second)
+
+
+
+151455.00 MiB transferred (15138.46 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0003s
+
+    total number of events:              151455
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.07
+
+         max:                                    1.19
+
+         95th percentile:                        0.10
+
+         sum:                                 9957.98
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           151455.0000/0.00
+
+    execution time (avg/stddev):   9.9580/0.00
+
+
+
+
+[ 1s ] 16105.13 MiB/sec
+
+[ 2s ] 16911.45 MiB/sec
+
+[ 3s ] 17710.38 MiB/sec
+
+[ 4s ] 17527.75 MiB/sec
+
+[ 5s ] 17648.27 MiB/sec
+
+[ 6s ] 17456.93 MiB/sec
+
+[ 7s ] 17566.04 MiB/sec
+
+[ 8s ] 17734.87 MiB/sec
+
+[ 9s ] 17357.10 MiB/sec
+
+Total operations: 173403 (17332.11 per second)
+
+
+
+173403.00 MiB transferred (17332.11 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0003s
+
+    total number of events:              173403
+
+
+
+Latency (ms):
+
+         min:                                    0.05
+
+         avg:                                    0.06
+
+         max:                                    1.16
+
+         95th percentile:                        0.06
+
+         sum:                                 9955.02
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           173403.0000/0.00
+
+    execution time (avg/stddev):   9.9550/0.00
+
+
+
+
+[ 1s ] 13205.92 MiB/sec
+
+[ 2s ] 12821.17 MiB/sec
+
+[ 3s ] 15194.69 MiB/sec
+
+[ 4s ] 16763.58 MiB/sec
+
+[ 5s ] 16896.38 MiB/sec
+
+[ 6s ] 16467.61 MiB/sec
+
+[ 7s ] 16458.50 MiB/sec
+
+[ 8s ] 16727.71 MiB/sec
+
+[ 9s ] 16880.69 MiB/sec
+
+Total operations: 158147 (15807.50 per second)
+
+
+
+158147.00 MiB transferred (15807.50 MiB/sec)
+
+
+
+
+
+General statistics:
+
+    total time:                          10.0003s
+
+    total number of events:              158147
+
+
+
+Latency (ms):
+
+         min:                                    0.06
+
+         avg:                                    0.06
+
+         max:                                    1.18
+
+         95th percentile:                        0.08
+
+         sum:                                 9953.91
+
+
+
+Threads fairness:
+
+    events (avg/stddev):           158147.0000/0.00
+
+    execution time (avg/stddev):   9.9539/0.00
+
+
